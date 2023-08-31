@@ -1,0 +1,7 @@
+p + ul {
+    background-color: aqua;
+}
+
+ul[class] {
+    border: solid black;
+}
